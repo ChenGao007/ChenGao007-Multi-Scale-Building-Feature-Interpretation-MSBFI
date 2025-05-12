@@ -7,7 +7,7 @@ If you find our work useful in your research, please consider citing:
 @article{Multi-Scale-Building-Feature-Interpretation-MSBFI,
       Author = {Xiaoyi Zu, Chen Gao},
       Title = {Multi-Scale-Building-Feature-Interpretation-MSBFI},
-      Journal = {https://github.com/ChenGao007/ChenGao007-Multi-Scale-Building-Feature-Interpretation-MSBFI.git},
+      Journal = { https://github.com/ChenGao007/ChenGao007-Multi-Scale-Building-Feature-Interpretation-MSBFI.git },
       Year = {2025}
 }
 

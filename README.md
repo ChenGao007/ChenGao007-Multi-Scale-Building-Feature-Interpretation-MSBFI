@@ -4,6 +4,12 @@ In this repository, we release the code and data for training a PointNet++ class
 
 Citation:
 If you find our work useful in your research, please consider citing: 
+@article{Multi-Scale-Building-Feature-Interpretation-MSBFI,
+      Author = {Xiaoyi Zu, Chen Gao},
+      Title = {Multi-Scale-Building-Feature-Interpretation-MSBFI},
+      Journal = {https://github.com/ChenGao007/ChenGao007-Multi-Scale-Building-Feature-Interpretation-MSBFI.git},
+      Year = {2025}
+}
 
 The code has been tested with Python 3.9.20, 2.0.0+cu118 on Window11.
 

@@ -17,9 +17,7 @@ Installation:
 pip install -r requirements.txt
 
 Usage:
-python train_pointnet2.py
-
-To train a model to classify point clouds sampled from the given dataset: 
+To train a model to classify point clouds sampled from the given dataset (): python train_pointnet2.py
 
 To generate the P_Grad_CAM:
 python gradcam_pointnet2_sa_weighted.py

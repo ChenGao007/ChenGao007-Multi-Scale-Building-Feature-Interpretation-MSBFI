@@ -7,10 +7,10 @@ If you find our work useful in your research, please consider citing:
 
 The code has been tested with Python 3.9.20, 2.0.0+cu118 on Window11.
 
-Installation
+Installation:
 pip install -r requirements.txt
 
-Usage
+Usage:
 python train_pointnet2.py 
 To train a model to classify point clouds sampled from the given dataset: 
 

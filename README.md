@@ -23,6 +23,6 @@ To generate the P_Grad_CAM:
 python gradcam_pointnet2_sa_weighted.py
 
 The weights of the different feature scales are adjusted by: 
-Lines 19-21 in gradcam_pointnet2_sa_weighted.py: SA1_weight、SA_weight、SA3_weight
+Lines 19-21 in gradcam_pointnet2_sa_weighted.py: SA1_weight, SA_weight, SA3_weight
 
 

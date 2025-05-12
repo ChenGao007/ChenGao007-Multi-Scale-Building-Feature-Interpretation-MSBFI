@@ -11,13 +11,13 @@ Installation:
 pip install -r requirements.txt
 
 Usage:
-python train_pointnet2.py 
+python train_pointnet2.py
 To train a model to classify point clouds sampled from the given dataset: 
 
 To generate the P_Grad_CAM:
 python gradcam_pointnet2_sa_weighted.py
 
-The weights of the different feature scales are adjusted by:
+The weights of the different feature scales are adjusted by: 
 Lines 19-21 in gradcam_pointnet2_sa_weighted.py: SA1_weight、SA_weight、SA3_weight
 
 

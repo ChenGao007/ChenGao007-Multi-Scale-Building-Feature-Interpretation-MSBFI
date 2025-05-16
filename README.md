@@ -17,7 +17,9 @@ Installation:
 pip install -r requirements.txt
 
 Usage:
-To train a model to classify point clouds sampled from the given dataset (): python train_pointnet2.py
+To train the model to classify point clouds sampled from the given dataset (Zu, X. Regional characteristics of heritage houses, Tibetan houses in
+the northeastern region of Aba prefecture, classification datasets. Mendeley Data 1. DOI:10.17632/jps788rr2c.1; Zu, X. Regional characteristics of heritage houses, Tibetan houses in
+the northeastern region of Aba prefecture, semantic segmentation datasets. Mendeley Data, V1 (2024). DOI:10.17632/5b3rfrjxvg.1): python train_pointnet2.py
 
 To generate the P_Grad_CAM:
 python gradcam_pointnet2_sa_weighted.py

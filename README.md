@@ -21,8 +21,8 @@ To train the model to classify point clouds sampled from the given dataset (Zu, 
 the northeastern region of Aba prefecture, classification datasets. Mendeley Data 1. DOI:10.17632/jps788rr2c.1; Zu, X. Regional characteristics of heritage houses, Tibetan houses in
 the northeastern region of Aba prefecture, semantic segmentation datasets. Mendeley Data, V1 (2024). DOI:10.17632/5b3rfrjxvg.1): train_pointnet2.py; train_pointmlp.py
 
-To generate the P_Grad_CAM:
-gradcam_pointnet2_weighted.py; gradcam_pointmlp_weighted.py
+To generate the P_Grad_CAM through pointnet2 backbone by:
+gradcam_pointnet2_weighted.py; through pointmlp by: gradcam_pointmlp_weighted.py
 
 The weights of the different feature scales are adjusted by: 
 Lines 11 in gradcam_pointnet2_weighted.py Or lines 20-22 gradcam_pointmlp_weighted.py: SA1_weight, SA_weight, SA3_weight

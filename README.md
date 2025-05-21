@@ -19,10 +19,10 @@ pip install -r requirements.txt
 Usage:
 To train the model to classify point clouds sampled from the given dataset (Zu, X. Regional characteristics of heritage houses, Tibetan houses in
 the northeastern region of Aba prefecture, classification datasets. Mendeley Data 1. DOI:10.17632/jps788rr2c.1; Zu, X. Regional characteristics of heritage houses, Tibetan houses in
-the northeastern region of Aba prefecture, semantic segmentation datasets. Mendeley Data, V1 (2024). DOI:10.17632/5b3rfrjxvg.1): python train_pointnet2.py
+the northeastern region of Aba prefecture, semantic segmentation datasets. Mendeley Data, V1 (2024). DOI:10.17632/5b3rfrjxvg.1): train_pointnet2.py; train_pointmlp.py
 
 To generate the P_Grad_CAM:
-python gradcam_pointnet2_sa_weighted.py
+gradcam_pointnet2_weighted.py; gradcam_pointmlp_weighted.py
 
 The weights of the different feature scales are adjusted by: 
 Lines 19-21 in gradcam_pointnet2_sa_weighted.py: SA1_weight, SA_weight, SA3_weight
